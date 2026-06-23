@@ -1,4 +1,4 @@
-//use a for-loop to print a line multiple times
+//use a for-loop to print a line multiple time
 # include <stdio.h>
 int main(void){
     int i=0;
